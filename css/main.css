@@ -1,0 +1,13 @@
+@import "cssreset.css";
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300i,400,700|Montserrat:400,500,600,700');
+@import "top-section.css";
+@import "services.css";
+@import "portfolio.css";
+
+/* turquoise	#40E0D0	rgb(64,224,208) */
+/* color: #FACC43 */
+
+.container {
+    max-width: 1150px;
+    margin: 0 auto;
+}
